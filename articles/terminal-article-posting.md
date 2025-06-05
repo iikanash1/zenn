@@ -1,4 +1,4 @@
----
+--
 title: "ターミナルで技術記事を投稿してみた：Git/GitHub活用の実践記録"
 emoji: "📝"
 type: "tech"
