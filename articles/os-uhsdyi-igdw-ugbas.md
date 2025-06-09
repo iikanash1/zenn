@@ -2,7 +2,7 @@
 title: " ITインフラ環境とは？基本構成から最新トレンドまでわかりやすく解説"
 emoji: "👽"
 type: "tech"
-topics: ["git", "github", "OS "zenn", "初心者"]
+topics: ["git", "github", "OS zenn", "初心者"]
 published: true
 ---
 
