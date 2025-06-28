@@ -3,7 +3,7 @@ title: "WinSCP入門：ファイル転送から公開鍵認証まで"
 emoji: "🚀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["windows", "winscp", "sftp", "ssh"]
-published: false
+published: true
 ---
 
 ## はじめに
