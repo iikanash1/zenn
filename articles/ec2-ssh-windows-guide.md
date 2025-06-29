@@ -1,6 +1,6 @@
 ---
 title: "【完全ガイド】WindowsからEC2へSSH接続：インスタンス起動からログインまで"
-emoji: "🚀"
+emoji: "🪼"
 type: "tech"
 topics: ["aws", "ec2", "ssh", "windows", "初心者"]
 published: true
@@ -108,3 +108,4 @@ EC2インスタンスの作成からSSH接続まで、一連の流れを解説�
 3.  **`ssh -i "鍵のパス" ec2-user@IPアドレス` のコマンド形式を覚える。**
 
 この手順に慣れれば、AWS活用の第一歩はクリアです。ぜひ、ご自身の環境で試してみてください。
+　
