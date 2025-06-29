@@ -1,6 +1,6 @@
 ---
 title: "【完全ガイド】WindowsからEC2へSSH接続：インスタンス起動からログインまで"
-emoji: "🚀"
+emoji: "🪼"
 type: "tech"
 topics: ["aws", "ec2", "ssh", "windows", "初心者"]
 published: true
