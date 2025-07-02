@@ -3,7 +3,7 @@ title: "【初心者向け】CI/CDの「ジョブ」とGitは何が違う？役�
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["git", "cicd", "githubactions", "devops"]
-published: false
+published:  true
 ---
 
 ## はじめに
