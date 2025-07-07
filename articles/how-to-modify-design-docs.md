@@ -3,7 +3,7 @@ title: "設計書を修正する際に気を付けるべき点"
 emoji: "✍️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["設計", "ドキュメント", "開発プロセス"]
-published: false
+published: true
 ---
 
 # 設計書を修正する際に気を付けるべき点
