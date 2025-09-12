@@ -1,6 +1,6 @@
 ---
 title: "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド"
-emoji: "🐧"
+emoji: "😴"
 type: "tech"
 topics: ["linux", "rhel", "centos", "yum", "dnf", "infrastructure"]
 published: true
