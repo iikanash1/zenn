@@ -3,7 +3,7 @@ title: "CursorのGUIでGitHubプルリクエストを作成する一連の操作
 emoji: "🤷‍♂️"
 type: "tech"
 topics: ["git", "github", "cursor", "vscode", "pullrequest"]
-published: true
+published: false
 ---
 
 ## CursorのGUIでGitHubプルリクエストを作成する一連の操作
